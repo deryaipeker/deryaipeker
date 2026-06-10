@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=deryaipeker&theme=dark" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deryaipeker&theme=react-dark&area=true&category=multiline" width="100%" />
 </p>
